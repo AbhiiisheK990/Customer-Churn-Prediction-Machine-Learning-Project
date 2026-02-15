@@ -4,6 +4,7 @@
 ![Status](https://img.shields.io/badge/Project-End--to--End-success)
 # Customer-Churn-Prediction-Machine-Learning-Project
 📊 Customer Churn Prediction – Analytics & Machine Learning Project
+
 📌 Project Overview
 
 Customer churn is a critical business challenge in the telecom industry. This project focuses on analyzing customer data to identify key factors influencing churn and building a machine learning–based solution to support data-driven decision making.
@@ -134,5 +135,3 @@ Suitable for entry-level analytics and ML-aware roles
 👤 Author
 
 Abhishek Hiremath
-Aspiring Analytics & Data Professional
-📍 India
