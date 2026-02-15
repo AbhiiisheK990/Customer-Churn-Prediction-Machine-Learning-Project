@@ -3,7 +3,6 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification-orange)
 ![Status](https://img.shields.io/badge/Project-End--to--End-success)
 # Customer-Churn-Prediction-Machine-Learning-Project
-Analytics and ML project analyzing telecom customer data to identify churn drivers, support decision making, and deploy a churn prediction model via a Flask REST API.
 📊 Customer Churn Prediction – Analytics & Machine Learning Project
 📌 Project Overview
 
