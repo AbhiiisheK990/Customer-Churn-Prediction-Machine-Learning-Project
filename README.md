@@ -26,6 +26,7 @@ Demonstrate how analytics and ML can support operational intelligence
 Deploy the solution for interactive prediction
 
 🧱 Project Architecture
+
 ├── data/
 │   └── telecom_customers.csv
 ├── notebooks/
