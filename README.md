@@ -26,6 +26,18 @@ Demonstrate how analytics and ML can support operational intelligence
 Deploy the solution for interactive prediction
 
 🧱 Project Architecture
+├── data/
+│   └── telecom_customers.csv
+├── notebooks/
+│   └── churn_analysis.ipynb
+├── src/
+│   ├── data_cleaning.py
+│   ├── model_training.py
+│   └── api_app.py
+├── customer_churn_architecture.png
+├── README.md
+├── requirements.txt
+└── .gitignore
 
 ![Customer Churn Prediction Architecture](customer_churn_architecture.png)
 
